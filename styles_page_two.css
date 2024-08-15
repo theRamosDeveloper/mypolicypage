@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+main {
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#plano-governo {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#plano-governo h1, #plano-governo h2 {
+    text-align: center;
+    color: #4CAF50;
+}
+
+.proposta {
+    margin-bottom: 20px;
+}
+
+.proposta h3 {
+    color: #FFEB3B;
+}
+
+.proposta p {
+    line-height: 1.6;
+}
+
+.proposta strong {
+    color: #4CAF50;
+}
+
+.end {
+    background-color: #FFEB3B;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 1.2em;
+}
